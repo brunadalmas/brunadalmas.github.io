@@ -1,6 +1,7 @@
 ---
 layout: archive
-permalink: /
+permalink: /about/
+
 title: "TEST TITLE"
 author_profile: true
 classes: wide
