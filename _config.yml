@@ -24,7 +24,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "/images/profile-bruna.jpg"
+  avatar: "profile-bruna.jpg"
   name             : "Bruna Dalmas"
   pronouns         : # example: "she/her"  
   bio              : "Political Science PhD Student"
