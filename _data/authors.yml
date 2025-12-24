@@ -1,5 +1,6 @@
 admin:
 name : "Bruna Dalmas" 
+avatar: "/images/profile-bruna.jpg"
 bio : "PhD Student at Indiana University" 
 location : "Bloomington, IN"
 email : "bdalmas@iu.edu" 
