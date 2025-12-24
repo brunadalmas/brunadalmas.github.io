@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a PhD student in Political Science at Indiana University Bloomington. I study politics in contexts shaped by criminal governance, focusing on elections, civilian reporting, and state accountability in Brazil and Latin America.
 
 My research asks how different forms of criminal organization alter political behavior and how democratic institutions respond to violence in contexts shaped by criminal governance. I approach these questions through a combination of quantitative analysis and close attention to legal and institutional processes.
