@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome!
 
 I am a PhD student in Political Science at Indiana University Bloomington. I study politics in contexts shaped by criminal governance, focusing on elections, civilian reporting, and state accountability in Brazil and Latin America.
 
