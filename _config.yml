@@ -17,12 +17,7 @@ url: https://brunadalmas.github.io
 baseurl                  : ""
 repository: "brunadalmas/brunadalmas.github.io"
 
-remote_theme: "academicpages/academicpages.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-plugins:
-  - jekyll-redirect-from
-  - jekyll-seo-tag
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
