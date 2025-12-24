@@ -17,7 +17,7 @@ url: https://brunadalmas.github.io
 baseurl                  : ""
 repository: "brunadalmas/brunadalmas.github.io"
 
-remote_theme: "academicpages/academicpages"
+remote_theme: "academicpages/academicpages.github.io"
 plugins:
   - jekyll-redirect-from
 
